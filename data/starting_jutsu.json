@@ -1,0 +1,25 @@
+{
+    "element":
+    {
+        "fire": 
+        {
+            "name": "Fireball Jutsu (Katon: Gōkakyū no Jutsu)", "damage": 8, "chakra cost": 5
+        },
+        "wind": 
+        {
+            "name": "Cutting Whirlwind Jutsu (Fūton: Kazegiri no Jutsu)", "damage": 8, "chakra cost": 5
+        },
+        "lightning": 
+        {
+            "name": "Thunderbolt Jutsu (Raiton: Raikōhō)", "damage": 8, "chakra cost": 5
+        },
+        "earth": 
+        {
+            "name": "Earth Spear Jutsu (Doton: Doryūheki)", "damage": 8, "chakra cost": 5
+        },
+        "water": 
+        {
+            "name": "Water Bullet Jutsu (Suiton: Suiryūdan no Jutsu)", "damage": 8, "chakra cost": 5
+        }
+    }
+}

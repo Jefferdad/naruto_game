@@ -1,0 +1,22 @@
+{
+    "1":
+    {
+        "name": "Hidden Leaf Village: Entrance",
+        "description": "Ahead, you see two massive wooden gates, intricately carved with images of legendary ninjas and fierce animals. The gates tower above you, standing as a testament to the strength and power of the village within. Guarding the entrance are two fierce-looking shinobi, dressed in their distinctive green and black uniforms, their piercing eyes scanning the horizon for any potential threats. As you step closer, you feel the weight of their gaze upon you, assessing your intentions and determining whether you are friend or foe.",
+        "neighbors":{"n": "2", "s": "3"}
+    },
+
+    "2": 
+    {
+        "name": "Hidden Leaf Village: Market",
+        "description": "The Hidden Leaf Village market is a bustling hub of activity, filled with the sounds of vendors hawking their wares and the chatter of shoppers bartering for the best prices. You can see everything from handmade ninja weapons to beautiful pottery, traditional clothing to strange and unusual trinkets from far-off lands.",
+        "neighbors":{"s": "1"}
+    },
+
+    "3": 
+    {
+        "name": "Hidden Leaf Village: Outskirts",
+        "description": "As you venture into the outskirts of the Hidden Leaf Village, the sights and sounds of the bustling city quickly give way to a serene and tranquil landscape. Rolling hills and lush green forests stretch out before you, punctuated by the occasional small farm or humble cottage.",
+        "neighbors":{"n": "1"}
+    }
+}

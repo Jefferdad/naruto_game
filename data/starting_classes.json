@@ -1,0 +1,35 @@
+{
+    "style":
+    {
+        "taijutsu master": 
+        {
+            "attributes": {"strength": 15, "dexterity": 14, "constitution": 12, "intelligence": 10, "chakra_control": 12, "charisma": 8},
+            "hitdie": 8
+        },
+        "weapons expert": 
+        {
+            "attributes": {"strength": 14, "dexterity": 15, "constitution": 13, "intelligence": 8, "chakra_control": 10, "charisma": 12},
+            "hitdie": 10
+        },
+        "ninjutsu specialist": 
+        {
+            "attributes": {"strength": 13, "dexterity": 12, "constitution": 10, "intelligence": 15, "chakra_control": 14, "charisma": 8},
+            "hitdie": 8
+        },
+        "genjutsu specialist": 
+        {
+            "attributes": {"strength": 10, "dexterity": 12, "constitution": 8, "intelligence": 13, "chakra_control": 14, "charisma": 15},
+            "hitdie": 8
+        },
+        "senjutsu master": 
+        {
+            "attributes": {"strength": 8, "dexterity": 10, "constitution": 15, "intelligence": 14, "chakra_control": 13, "charisma": 12},
+            "hitdie": 8
+        },
+        "medical ninja": 
+        {
+            "attributes": {"strength": 10, "dexterity": 8, "constitution": 13, "intelligence": 12, "chakra_control": 15, "charisma": 14},
+            "hitdie": 8
+        }
+    }
+}
